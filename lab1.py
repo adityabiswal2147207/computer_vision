@@ -24,5 +24,10 @@ img = img.convert('L')
 img.save("grayscaled.jpg")
 
 
+img.save("format1.png")
+img.save("format2.jpeg")
+
+
+
 
 
